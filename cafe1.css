@@ -1,0 +1,78 @@
+hr{
+  color: ghostWhite;
+}
+h1
+{
+  color: lightSeaGreen;
+  font-size: 400%;
+  margin-left: 35px;
+  margin-top: 20px;
+  margin-bottom: 2px;
+  font-weight:lighter;
+}
+
+a:link {
+  color: lightSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:lightSeaGreen ;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+}
+
+a:active {
+  color:black;
+  background-color: transparent;
+}
+table
+{
+  width:60%;
+  cellpadding:1;
+}
+body {
+  border-style: solid;
+  border-width: 8px;
+  border-color: lightSeaGreen;
+  margin-right: 400px;
+    margin-left: 20px;
+}
+img{
+  margin-left: 35px;
+  margin-right: 5px;
+}
+
+
+hr.m1{
+  margin-left: 35px;
+  margin-right:35px;
+    border-top: 1px solid  GhostWhite;
+}
+hr.m2{
+  margin-left: 35px;
+  margin-right:35px;
+  border-top: 1px solid lightGrey;
+}
+p{
+  margin-right:50px;
+}
+h2.m3
+{
+  margin-right: 50px;
+  color: DimGrey;
+}
+p.demo1
+{
+  margin-left: 30px;
+}
+h2.m4
+{
+  color: DimGrey;
+}
