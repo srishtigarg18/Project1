@@ -1,0 +1,73 @@
+h1.demo2{
+  color: DarkSlateGrey;
+    margin-left: 35px;
+}
+h2.demo3
+{
+  color:DimGrey ;
+    margin-left: 35px;;
+}
+h1.demo4
+{
+  color: lightSeaGreen;
+  font-size: 400%;
+  margin-left: 35px;
+  margin-top: 20px;
+  margin-bottom: 2px;
+  font-weight:lighter;
+}
+
+ul{
+    margin-left: 35px;
+}
+
+a:link {
+  color: lightSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:lightSeaGreen ;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+}
+
+a:active {
+  color:black;
+  background-color: transparent;
+}
+table
+{
+  width:60%;
+  cellpadding:1;
+}
+body {
+  border-style: solid;
+  border-width: 8px;
+  border-color: lightSeaGreen;
+  margin-left: 20px;
+    margin-right:150px;
+    margin-bottom: 100px;
+}
+a.demo5
+{
+  margin-left: 35px;
+  color: #0000EE ;
+  text-decoration: underline;
+}
+hr.d2{
+  margin-left: 35px;
+  margin-right:35px;
+    border-top: 1px solid  GhostWhite;
+}
+hr.d3{
+  margin-left: 35px;
+  margin-right:35px;
+  border-top: 1px solid lightGrey;
+}
